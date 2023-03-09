@@ -1,1 +1,1 @@
-# ML_detection_behaviour_project
+# Detection behaviour project with Python OpenCV library
