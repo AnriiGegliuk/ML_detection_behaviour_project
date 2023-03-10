@@ -1,1 +1,3 @@
-# Detection behaviour project with Python OpenCV library
+# Objects detection with Python OpenCV library 
+
+## Behaviour project analysis
