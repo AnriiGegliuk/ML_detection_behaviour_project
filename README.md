@@ -1,6 +1,6 @@
 # Objects detection with Python OpenCV library 
 
-## Behaviour project analysis
+## [Social defeat models in animal science](https://onlinelibrary.wiley.com/doi/full/10.1111/asj.12809)
 
 **Social defeat models** are used in animal science to study the effects of social stress and aggression on animal behavior, physiology, and health. In these models, a dominant animal is paired with a subordinate animal, leading to repeated instances of social defeat for the subordinate animal. This can be achieved in various ways, including using resident-intruder paradigms, tube tests, or other social interaction tests.
 
