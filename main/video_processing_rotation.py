@@ -119,7 +119,7 @@ for dirpath, dirnames, filenames in os.walk(root_dir):
                     create_json_file(json_file_path, json_data)
 
                 except Exception as e:
-                    if isinstance(e, (FileNotFoundError, OSError, IOError)):
+                    if e:
                         print(f"{filename} does not contain any frames for analysis. Please check the video. Error: {e}")
                     else:
                         print(f"An error occurred while processing {filename}. Error: {e}")
