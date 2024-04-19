@@ -1,4 +1,4 @@
-# Objects detection with Python OpenCV library 
+# Objects detection with Python OpenCV library!
 
 ## [Social defeat models in animal science](https://onlinelibrary.wiley.com/doi/full/10.1111/asj.12809)
 
