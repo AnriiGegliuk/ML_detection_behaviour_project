@@ -12,3 +12,8 @@ These social defeat models are used to study the effects of social stress on a v
 - Identify and track the movement of animals in the videos
 - Determine the direction of movement of the animals
 
+
+##### note: alredy integrated into existing software.
+
+
+
